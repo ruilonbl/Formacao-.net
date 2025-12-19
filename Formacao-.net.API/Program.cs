@@ -1,6 +1,11 @@
+using Formacao_.net.API.Models;
+using Formacao_.net.API.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.Configure<FreelancerTotalConstConfig>(builder.Configuration.GetSection("FreelancerTotalConstConfig"));
+builder.Services.AddSingleton<IConfigService, ConfigService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

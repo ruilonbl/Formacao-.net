@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formacao-.net.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a527c13a7284bb168fa9c52796a3fab72f969bbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46359d70f1ba40bc77214d3454a33496482c77e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formacao-.net.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formacao-.net.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

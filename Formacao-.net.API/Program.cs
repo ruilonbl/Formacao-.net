@@ -1,3 +1,4 @@
+using Formacao_.net.API.ExceptionHandler;
 using Formacao_.net.API.Models;
 using Formacao_.net.API.Services;
 
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<FreelancerTotalConstConfig>(builder.Configuration.GetSection("FreelancerTotalConstConfig"));
 builder.Services.AddSingleton<IConfigService, ConfigService>();
 
+builder.Services.AddExceptionHandler<ApiExceptionHandler>();
+builder.Services.AddProblemDetails();
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -21,6 +24,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseExceptionHandler();
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

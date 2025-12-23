@@ -11,5 +11,12 @@ namespace Formacao_.net.API.Controllers
         {
             return Ok();
         }
+
+        [HttpPost("{id}/profile-picture")]
+        public IActionResult PostProfilePicture(IFormFile file)
+        {
+            var description = $"FILE: {file.Name}, size: {file.Length}";
+            return Ok(description);
+        }
     }
 }

@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Formacao_.net.API.Entities;
+using Formacao_.net.API.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Formacao_.net.API.Controllers
 {
@@ -6,16 +8,31 @@ namespace Formacao_.net.API.Controllers
     [ApiController]
     public class SkillsController : ControllerBase
     {
+        private readonly DevFreelaDbContext _context;
+        public SkillsController(DevFreelaDbContext context)
+        {
+            _context = context;
+        }
+
+        // GET api/skills
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Ok();
+            var skills = _context.Skills.ToList();
+
+            return Ok(skills);
         }
 
+        // POST api/skills
         [HttpPost]
-        public IActionResult Post()
+        public IActionResult Post(CreateSkillInputModel model)
         {
-            return Ok();
+            var skill = new Skill(model.Description);
+
+            _context.Skills.Add(skill);
+            _context.SaveChanges();
+
+            return NoContent();
         }
     }
 }

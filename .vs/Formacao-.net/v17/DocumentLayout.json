@@ -3,64 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\enuns\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\enuns\\projectstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\entities\\userskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\entities\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\entities\\projectcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\models\\updateprojectsinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\models\\updateprojectsinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\models\\freelancertotalconstconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\models\\freelancertotalconstconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\models\\createprojectcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\models\\createprojectcommentinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\formacao-.net.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\formacao-.net.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|c:\\users\\ruilo\\onedrive\\documentos\\porjetos\\formacao-.net\\formacao-.net.api\\exceptionhandler\\apiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1C976D1-89DA-44FA-9C51-2BFD50820EAA}|Formacao-.net.API\\Formacao-.net.API.csproj|solutionrelative:formacao-.net.api\\exceptionhandler\\apiexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,199 +38,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Program.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Program.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Program.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Formacao-.net.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Formacao-.net.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T23:49:50.456Z",
+              "WhenOpened": "2025-12-28T20:41:43.91Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\appsettings.json",
-              "RelativeToolTip": "Formacao-.net.API\\appsettings.json",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-19T00:22:08.658Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "Formacao-.net.API\\Controllers\\SkillsController.cs",
+              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "Formacao-.net.API\\Controllers\\SkillsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:47:07.925Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\Project.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Entities\\Project.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:31:39.773Z",
+              "WhenOpened": "2025-12-28T20:41:46.567Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserSkill.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\UserSkill.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Entities\\UserSkill.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\UserSkill.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Entities\\UserSkill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Formacao-.net.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Formacao-.net.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:52:01.123Z",
+              "WhenOpened": "2025-12-28T20:41:48.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Program.cs",
+              "RelativeDocumentMoniker": "Formacao-.net.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Program.cs",
+              "RelativeToolTip": "Formacao-.net.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:21:13.455Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\Skill.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Entities\\Skill.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\Skill.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Entities\\Skill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Title": "DevFreelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeDocumentMoniker": "Formacao-.net.API\\Persistence\\DevFreelaDbContext.cs",
+              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Persistence\\DevFreelaDbContext.cs",
+              "RelativeToolTip": "Formacao-.net.API\\Persistence\\DevFreelaDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:51:43.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FreelancerTotalConstConfig.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\FreelancerTotalConstConfig.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Models\\FreelancerTotalConstConfig.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\FreelancerTotalConstConfig.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Models\\FreelancerTotalConstConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:48:11.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateProjectsInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\UpdateProjectsInputModel.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Models\\UpdateProjectsInputModel.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\UpdateProjectsInputModel.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Models\\UpdateProjectsInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:47:48.965Z",
+              "WhenOpened": "2025-12-28T21:09:44.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ProjectComment.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\ProjectComment.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Entities\\ProjectComment.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\ProjectComment.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Entities\\ProjectComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:41:03.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Entities\\User.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:32:59.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectStatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Enuns\\ProjectStatusEnum.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Enuns\\ProjectStatusEnum.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Enuns\\ProjectStatusEnum.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Enuns\\ProjectStatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:37:30.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateProjectCommentInputModel.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\CreateProjectCommentInputModel.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Models\\CreateProjectCommentInputModel.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Models\\CreateProjectCommentInputModel.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Models\\CreateProjectCommentInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T00:48:09.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Formacao-.net.API.csproj",
+              "Title": "Formacao-.net.API",
               "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Formacao-.net.API.csproj",
               "RelativeDocumentMoniker": "Formacao-.net.API\\Formacao-.net.API.csproj",
               "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Formacao-.net.API.csproj",
               "RelativeToolTip": "Formacao-.net.API\\Formacao-.net.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-23T00:55:38.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProjectsController.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\ProjectsController.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\Controllers\\ProjectsController.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\Controllers\\ProjectsController.cs",
-              "RelativeToolTip": "Formacao-.net.API\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:58:44.826Z",
+              "WhenOpened": "2025-12-28T20:46:15.01Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApiExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\ExceptionHandler\\ApiExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Formacao-.net.API\\ExceptionHandler\\ApiExceptionHandler.cs",
-              "ToolTip": "C:\\Users\\ruilo\\OneDrive\\Documentos\\Porjetos\\Formacao-.net\\Formacao-.net.API\\ExceptionHandler\\ApiExceptionHandler.cs",
-              "RelativeToolTip": "Formacao-.net.API\\ExceptionHandler\\ApiExceptionHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T22:53:35.68Z"
             }
           ]
         }

@@ -1,6 +1,8 @@
 using Formacao_.net.API.ExceptionHandler;
 using Formacao_.net.API.Models;
+using Formacao_.net.API.Persistence;
 using Formacao_.net.API.Services;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.Configure<FreelancerTotalConstConfig>(builder.Configuration.GetSection("FreelancerTotalConstConfig"));
 builder.Services.AddSingleton<IConfigService, ConfigService>();
 
+builder.Services.AddDbContext<DevFreelaDbContext>(o => o.UseInMemoryDatabase("DevFreelaDb"));
 builder.Services.AddExceptionHandler<ApiExceptionHandler>();
 builder.Services.AddProblemDetails();
 builder.Services.AddControllers();

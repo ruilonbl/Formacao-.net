@@ -1,6 +1,6 @@
 ﻿namespace Formacao_.net.API.Models
 {
-    public class UpdateProjectsInputModel
+    public class UpdateProjectInputModel
     {
         public int IdProject { get; set; }
         public string Title { get; set; }
